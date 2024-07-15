@@ -1,0 +1,3 @@
+mutation Create($input: String!) {
+	create(input: $input)
+}
